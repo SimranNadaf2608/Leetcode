@@ -34,4 +34,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/SimranNadaf2608/Leetcode/tree/master/0183-customers-who-never-order) |
+| [0511-game-play-analysis-i](https://github.com/SimranNadaf2608/Leetcode/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
