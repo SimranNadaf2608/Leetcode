@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SimranNadaf2608/Leetcode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/SimranNadaf2608/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0392-is-subsequence](https://github.com/SimranNadaf2608/Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/SimranNadaf2608/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SimranNadaf2608/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/SimranNadaf2608/Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/SimranNadaf2608/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Simulation
 |  |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SimranNadaf2608/Leetcode/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/SimranNadaf2608/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
