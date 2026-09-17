@@ -1,14 +1,21 @@
 class Solution:
     def singleNonDuplicate(self, nums: List[int]) -> int:
-        h = {}
-        for i in nums:
-            if i in h:
-                h[i] += 1
+        left = 1
+        right = len(nums)-2
+        high = len(nums)-1
+        if len(nums) == 1:
+            return nums[0]
+        if nums[0] != nums[1]:
+            return nums[0]
+        if nums[high] != nums[right]:
+            return nums[high]
+        while left<=right:
+            mid = left+(right-left)//2
+            if nums[mid] < nums[mid+1] and nums[mid] > nums[mid-1]:
+                return nums[mid]
+            if (mid%2==1 and nums[mid] == nums[mid-1]) or (mid%2==0 and nums[mid] == nums[mid+1]):
+                left = mid+1
             else:
-                h[i] = 1
-        # print(h)
-    
-        for i in h:
-            if h[i] == 1:
-                return i
-        
+                right = mid-1
+        return -1
+
