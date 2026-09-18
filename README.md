@@ -64,8 +64,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/SimranNadaf2608/Leetcode/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/SimranNadaf2608/Leetcode/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/SimranNadaf2608/Leetcode/tree/master/0066-plus-one) |
+| [0509-fibonacci-number](https://github.com/SimranNadaf2608/Leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SimranNadaf2608/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SimranNadaf2608/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
