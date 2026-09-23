@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SimranNadaf2608/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SimranNadaf2608/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SimranNadaf2608/Leetcode/tree/master/0162-find-peak-element) |
+| [0455-assign-cookies](https://github.com/SimranNadaf2608/Leetcode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SimranNadaf2608/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SimranNadaf2608/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SimranNadaf2608/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SimranNadaf2608/Leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/SimranNadaf2608/Leetcode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/SimranNadaf2608/Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/SimranNadaf2608/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SimranNadaf2608/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SimranNadaf2608/Leetcode/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/SimranNadaf2608/Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/SimranNadaf2608/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SimranNadaf2608/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0455-assign-cookies](https://github.com/SimranNadaf2608/Leetcode/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SimranNadaf2608/Leetcode/tree/master/0509-fibonacci-number) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SimranNadaf2608/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
