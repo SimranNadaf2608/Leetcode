@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SimranNadaf2608/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SimranNadaf2608/Leetcode/tree/master/0162-find-peak-element) |
 | [0455-assign-cookies](https://github.com/SimranNadaf2608/Leetcode/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/SimranNadaf2608/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SimranNadaf2608/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SimranNadaf2608/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
