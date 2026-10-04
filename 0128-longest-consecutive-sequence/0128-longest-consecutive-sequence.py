@@ -1,8 +1,8 @@
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
-
+        #Better approach
         longest = 0
-        count = 1
+        count = 0
         nums.sort()
         last_smaller = float('-inf')
         for i in range(len(nums)):
