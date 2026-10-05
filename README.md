@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SimranNadaf2608/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SimranNadaf2608/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SimranNadaf2608/Leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/SimranNadaf2608/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/SimranNadaf2608/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SimranNadaf2608/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SimranNadaf2608/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SimranNadaf2608/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SimranNadaf2608/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SimranNadaf2608/Leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/SimranNadaf2608/Leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SimranNadaf2608/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Database
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SimranNadaf2608/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/SimranNadaf2608/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/SimranNadaf2608/Leetcode/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/SimranNadaf2608/Leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/SimranNadaf2608/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SimranNadaf2608/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -102,8 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SimranNadaf2608/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/SimranNadaf2608/Leetcode/tree/master/0268-missing-number) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SimranNadaf2608/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SimranNadaf2608/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
