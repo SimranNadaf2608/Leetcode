@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SimranNadaf2608/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SimranNadaf2608/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/SimranNadaf2608/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/SimranNadaf2608/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SimranNadaf2608/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SimranNadaf2608/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/SimranNadaf2608/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SimranNadaf2608/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SimranNadaf2608/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/SimranNadaf2608/Leetcode/tree/master/0268-missing-number) |
 ## Union-Find
@@ -126,4 +128,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/SimranNadaf2608/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SimranNadaf2608/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/SimranNadaf2608/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
