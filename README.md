@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/SimranNadaf2608/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/SimranNadaf2608/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SimranNadaf2608/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SimranNadaf2608/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SimranNadaf2608/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/SimranNadaf2608/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
