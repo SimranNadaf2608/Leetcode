@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SimranNadaf2608/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SimranNadaf2608/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SimranNadaf2608/Leetcode/tree/master/0162-find-peak-element) |
+| [0238-product-of-array-except-self](https://github.com/SimranNadaf2608/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SimranNadaf2608/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/SimranNadaf2608/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SimranNadaf2608/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/SimranNadaf2608/Leetcode/tree/master/0278-first-bad-version) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/SimranNadaf2608/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
